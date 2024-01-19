@@ -336,6 +336,20 @@ body{
         padding: 0%;
         text-align: center;
     }
+    .numeracao-meus-designs {
+        font-family: Montserrat, sans-serif;
+        font-weight: 800;
+        font-size: 1.5em;
+        color: rgb(155, 155, 155);
+        margin: 15% 0% 0% 0%;
+    }
+    .text-meus-designs {
+        font-family: Montserrat, sans-serif;
+        font-size: 1.5rem;
+        font-weight: 600;
+        color: rgb(255, 255, 255);
+        margin: 15% 0% 0%;
+    }
 }
 
 @media screen and (max-width: 520px) {
