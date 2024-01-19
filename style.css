@@ -1,0 +1,370 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body{
+    background-color: #141414;
+}
+
+.img_navbar{
+    border-radius: 100%;
+    width: 50px;
+}
+
+.img_background{
+    width: 100%;
+    height: 50%;
+    object-fit: cover;
+    
+}
+
+.img_01{
+    position: absolute;
+    margin: 7% 0% 0% 10% ;
+    width: 17%;
+
+}
+
+.banner{
+    position: absolute;
+    margin: 32% 0% 0% 10% ;
+    width: 17%;
+}
+
+.text_banner{
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.5rem;
+    color: #FFFFFF;
+    margin: 0px;
+   
+}
+
+.text_banner_titulo{
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 5.5em;
+    color: #FFFFFF;
+    margin: 0px;
+    
+}
+
+.text_banner_design{
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.5em;
+    color: #FFFFFF;
+    margin: 0px;
+    text-align: right;
+}
+
+.session-boas-vindas{
+    margin: 15% 0% 0% 0%;
+    background-color: #141414;
+}
+
+.img_02{
+    width: 40%;
+}
+
+.bloco-bem-vindo{
+    margin: 18% 0% 0% 13%;
+}
+
+.title-boas-vindas{
+    font-weight: 600;
+    color: #FFF;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.text-boas-vindas{
+    color: #FFF;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.session-meus-designs{
+    background-color: #141414;
+    padding: 6% 0%;
+}
+
+.img_03{
+    width: 100%;
+    margin: 0% 0% 20% 0%;
+}
+
+.tag_link_designs:hover {
+    background-color: #FFFFFF;
+}
+
+.tag_link_designs{
+    text-decoration: none;
+}   
+
+.coluna-meus-designs{
+    margin: 0% 0% 0% 15%;
+}
+
+.title-meus-designs{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: #FFFFFF;
+    margin: 72% 0% 5% 0%;
+
+}
+
+.text-meus-designs{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2em;
+    font-weight: 600;
+    color: #FFFFFF;
+    margin: 15% 0% 0% 0%;
+}
+
+.numeracao-meus-designs{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    font-size: 2em;
+    color: #9B9B9B;
+    margin: 15% 0% 0% 0%;
+}
+
+.indicie-meus-designs{
+    margin: 45% 0% 0% 0%;
+}
+
+.subtitulo-meus-designs{
+    margin: 0px 0px 80px 0px;
+    font-size: 1em;
+    color: #FFFFFF;
+}
+
+.sessio-logo-belink{
+    background-color: #EBEBEB;
+}
+
+.title-logo-belink{
+    margin: 7% 0% 0% 0%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3em;
+    font-weight: 900;
+    color: #000000;
+}
+
+.text-logo-belink{
+    margin: 2% 0% 0% 0%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2em;
+    font-weight: 400;
+    color: #000000;
+}
+
+
+.img_04{
+    width: 40%;
+}
+
+
+.img_05{
+    width: 50%;
+    
+}
+
+.img_06{
+    width: 50%;
+    margin: 35% 0% 0% 0%;
+}
+
+.session-trabalho-voluntario{
+    background-color: #141414;
+    padding: 10% 0%;
+}
+
+.title-trabalho-voluntario{
+    margin: 9% 0% 0% 0%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3em;
+    font-weight: 900;
+    color: #FFFFFF;
+}
+
+.text-trabalho-voluntario{
+    margin: 2% 0% 0% 0%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2em;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+.img_cards_voluntarios{
+    width: 32%;
+    margin: 12% 0 0 0 ;
+    border-radius: 5%;
+}
+
+.session-design-minimalista{
+    background-color: #BBC6B6;
+    padding: 10% 0%;
+}
+
+.title-design-minimalista{
+    margin: 9% 0% 0% 0%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3em;
+    font-weight: 900;
+    color: #000000;
+}
+
+.text-design-minimalista{
+    margin: 2% 0% 0% 0%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2em;
+    font-weight: 400;
+    color: #000000;
+}
+
+.img_cards_design_minimalista{
+    width: 32%;
+    margin: 22% 0 0 0 ;
+    border-radius: 5%;
+}
+
+.session-agradecimentos{
+    background-color: #141414;
+    padding: 15% 0%;
+}
+
+.text-agradecimentos{
+    margin: 2% 0% 0% 0%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.1em;
+    font-weight: 900;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.session-contatos{
+    background-color: #141414;
+    padding: 0% 0% 4% 0%;
+}
+
+.title-contatos{
+    margin: 9% 0% 0% 0%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3em;
+    font-weight: 900;
+    color: #FFFFFF;
+}
+
+.img-19{
+    width: 100%;
+}
+
+.coluna-de-contatos{
+    margin: 0% 0% 0% 7%;
+    padding: 10% 0%;
+}
+
+.subtitle-contatos{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.8em;
+    font-weight: 400;
+    color: #9B9B9B;
+    
+}
+
+.text-contatos{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2em;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+
+
+@media screen and (max-width: 1200px) {
+    .coluna-meus-designs {
+        margin: -65% 0% 0% 0%;
+       
+    }
+    .title-meus-designs {
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 600;
+        color: #FFFFFF;
+        margin: 20% 0% 5% 0%;
+      
+    }
+    .subtitulo-meus-designs {
+        margin: 0px 0px 0px 0px;
+        font-size: 1em;
+        color: #FFFFFF;
+    }
+}
+
+@media screen and (max-width: 840px) {
+    .img_01 {
+       display: none;
+    }
+
+    .banner {
+        position: absolute;
+        margin: 15% 0% 0% 10%;
+        width: 17%;
+    }
+    .text_banner {
+        font-family: 'Cormorant Garamond', serif;
+        font-size: 1.3rem;
+        color: #FFFFFF;
+        margin: 0px;
+    }
+    .text_banner_titulo {
+        font-family: 'Cormorant Garamond', serif;
+        font-size: 3.5rem;
+        color: #FFFFFF;
+        margin: 0px;
+    }
+    .text_banner_design {
+        font-family: 'Cormorant Garamond', serif;
+        font-size: 1.3rem;
+        color: #FFFFFF;
+        margin: 0px;
+        text-align: right;
+    }
+    .img_02 {
+        width: 55%;
+    }
+    .bloco-bem-vindo {
+        margin: 12% 0 0 0;
+    }
+    .coluna-de-contatos {
+        margin: 0% ;
+        padding: 0%;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 520px) {
+    body{
+        margin: 0;
+    }
+    .text_banner_design {
+        display: none;
+    }
+    .text_banner {
+        display: none;
+    }
+    .banner {
+        position: absolute;
+        margin: 28% 0% 0% 10%;
+        width: 17%;
+    }
+    .img_02 {
+        width: 100%;
+    }
+    .title-boas-vindas{
+        margin: 20px 0 0 0;
+    }
+    .bloco-bem-vindo {
+        margin: 0;
+    }
+    .coluna-de-contatos {
+        margin: 0% ;
+        padding: 0%;
+        text-align: center;
+    }
+}
