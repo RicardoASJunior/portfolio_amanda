@@ -219,7 +219,7 @@ body{
 }
 
 .img_cards_design_minimalista{
-    width: 32%;
+    width: 30%;
     margin: 22% 0 0 0 ;
     border-radius: 5%;
 }
@@ -350,6 +350,18 @@ body{
         color: rgb(255, 255, 255);
         margin: 15% 0% 0%;
     }
+    .img_cards_design_minimalista{
+        width: 50%;
+        margin: 22% 0 0 0 ;
+        border-radius: 5%;
+    }
+    
+    .img_cards_voluntarios{
+        width: 50%;
+        margin: 12% 0 0 0 ;
+        border-radius: 5%;
+    }   
+    
 }
 
 @media screen and (max-width: 520px) {
@@ -381,4 +393,14 @@ body{
         padding: 0%;
         text-align: center;
     }
+    .img_cards_design_minimalista{
+        width: 100%;
+        margin: 22% 0 0 0 ;
+        border-radius: 5%;
+    }
+    .img_cards_voluntarios{
+        width: 100%;
+        margin: 12% 0 0 0 ;
+        border-radius: 5%;
+    }   
 }
